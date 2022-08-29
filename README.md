@@ -13,9 +13,9 @@ Then you are again presented with current and future conditions for that city
 
 
 
+<img width="1440" alt="WeatherApi" src="https://user-images.githubusercontent.com/108623643/187302325-938271c2-6a1e-46d1-a230-15dbbb35570f.png">
 
 
 
 
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/99852993/167325288-ac2b4b92-9a8d-4adf-baa0-a261ce55f931.gif)
